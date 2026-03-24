@@ -382,3 +382,10 @@
   - balance: Slasher antag no longer has the dumb trait
   suffering intensifies:
   - balance: allows tundra moths to use the mothlet grenade
+2026-03-24:
+  JohnFulpWillard:
+  - bugfix: The boulder retrieval matrix board can be printed by cargo now.
+  - rscadd: "There\u2019s now a checkout mode on the barcode scanner."
+  TheColorCyan:
+  - balance: some special  monke edited bullets were lowered in speed to account for
+      slower speed of bullets in general
