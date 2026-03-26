@@ -392,3 +392,19 @@
 2026-03-25:
   notghosti:
   - bugfix: License to plasmaflood no longer implies you have a license to murderbone.
+2026-03-26:
+  JohnFulpWillard:
+  - balance: Mimes can use their spells while non-human (if they were transformed
+      into something else)
+  PotatoTomahto:
+  - admin: admins can toggle the tram to isekai people
+  Shoddd:
+  - balance: Scatter laser shells actually utilize the real scatter laser beam. Doing
+      45 damage per shot rather than 90
+  cam_dev:
+  - map: 'oshan: adds maintenance door exit to patients room'
+  ghost:
+  - code_imp: The Greytide event will now play bolt audio and update the icon when
+      toggling door bolts.
+  wonderinghost:
+  - map: '[Meta] Adds Boulder Processing To Miner''s Office'
