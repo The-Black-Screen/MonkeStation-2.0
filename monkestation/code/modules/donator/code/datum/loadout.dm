@@ -1127,3 +1127,10 @@
 	item_path = /obj/item/clothing/suit/hooded/cloak/red_regal_mantle
 	donator_only = TRUE
 	requires_purchase = FALSE
+
+// Snackiversal
+/datum/loadout_item/neck/anchor_necklace
+	name = "Silver Anchor"
+	item_path = /obj/item/clothing/accessory/silver_anchor
+	donator_only = TRUE
+	requires_purchase = FALSE
