@@ -427,3 +427,10 @@
   - balance: changelings don't get a weight penalty for rolling consecutively.
   - balance: increased the weight of heretics from 2 to 8.
   - balance: heretics, bloodsuckers, and changelings all require enemies to roll.
+2026-03-28:
+  JohnFulpWillard:
+  - bugfix: The Magic 8ball now lets ghosts vote on it.
+  TheColorCyan:
+  - rscadd: Added Snackiversal's donator item "Silver Anchor"
+  Tractor-Maam:
+  - rscadd: Readded crutches to medical lathes.
