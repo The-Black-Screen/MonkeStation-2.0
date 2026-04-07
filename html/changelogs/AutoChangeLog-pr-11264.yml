@@ -1,4 +1,0 @@
-author: "Absolucy"
-delete-after: True
-changes:
-  - bugfix: "Xenos can no longer clog up the roundend report by repeatedly entering and exiting xenobio containment."
