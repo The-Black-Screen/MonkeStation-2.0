@@ -1,0 +1,5 @@
+author: "notghosti"
+delete-after: True
+changes:
+  - map: "Pubby cargo now doesn't have a exposed floor in mining"
+  - map: "Pubby cargo now no longer has a exposed cargo console to the public."
