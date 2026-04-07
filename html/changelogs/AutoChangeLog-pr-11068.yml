@@ -1,0 +1,7 @@
+author: "JohnFulpWillard"
+delete-after: True
+changes:
+  - rscadd: "Simians can now have a Big Stick that indicates them as being Leader of the Simians. Beat your leader over the head and take it for yourself if you don't like them."
+  - rscadd: "You can now get a Chimp translation encryption key from Cargo."
+  - bugfix: "Monkeys can now have prosthetic limbs."
+  - bugfix: "Simians can no longer take the Outsider quirk."
