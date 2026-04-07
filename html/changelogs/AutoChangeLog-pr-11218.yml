@@ -1,0 +1,13 @@
+author: "DaworseplayerEver"
+delete-after: True
+changes:
+  - rscadd: "Added brute, burn, oxy, toxin, and robotic patch medkit inside while also replacing the expedition medkit with the combat medical medkit."
+  - rscadd: "two legacy, two normal, a toxin, and oxygen medkit into another crate for \"Surplus\""
+  - rscadd: "Box of beakers, bodybag, sterile mask, and a emergency roller bed into the medbay medical locker."
+  - rscadd: "syndicate bodybag, security belt, box of cuffs, and a flash to the guard locker room."
+  - rscadd: "One syndicate inducer in engineering."
+  - rscadd: "A syndicate bunny box in QM locker. Style!"
+  - rscadd: "One extra box of deluxe parts."
+  - map: "Modified syndicate depot dorm rooms to be a tile longer!"
+  - map: "add 3 syndicate modsuit storage units in depots EVA and quartermaster room."
+  - map: "Modified the brig bed into a shitter version. Sorry prisoners."
