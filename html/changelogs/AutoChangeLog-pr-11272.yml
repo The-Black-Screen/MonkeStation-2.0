@@ -1,0 +1,4 @@
+author: "Inari-Whitebear"
+delete-after: True
+changes:
+  - bugfix: "MechComp Paper Sensor is now able to read paper."
