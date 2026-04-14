@@ -1,0 +1,6 @@
+author: "cursedforestspirit"
+delete-after: True
+changes:
+  - rscadd: "A new admin verb that clears admin uploaded maps."
+  - rscdel: "Removed the code automatically deleting custom maps."
+  - bugfix: "Custom maps should no longer delete themselves before they load and default to metastation."
