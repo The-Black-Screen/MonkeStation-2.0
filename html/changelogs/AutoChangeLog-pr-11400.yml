@@ -1,5 +1,0 @@
-author: "Tractor-Maam"
-delete-after: True
-changes:
-  - rscdel: "Removed cat from NTSL (nekomimetic exists and does the same thing.)"
-  - spellcheck: "fixed the NTSL language reference list, making it accurate to the actual variables used."
