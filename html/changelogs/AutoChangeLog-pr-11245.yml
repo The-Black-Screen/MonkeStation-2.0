@@ -1,0 +1,5 @@
+author: "Mantlecrawler, commissioned by Moffifuwa"
+delete-after: True
+changes:
+  - rscadd: "Citationinators can now be used to fine anything, rather than only people on the manifest. Fine that door for being in your way!"
+  - rscadd: "You can now EMAG a citationinator to allow anyone to use it, rather than just those with security access"
